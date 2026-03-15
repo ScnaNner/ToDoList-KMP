@@ -29,6 +29,19 @@ This project goes beyond a simple frontend UI by integrating a completely custom
 * **Real-Time API Communication:** Tasks added on the Web or Mobile app instantly sync with the local Ktor backend via asynchronous HTTP requests.
 * **Polished UX:** Features buttery-smooth Compose animations, dynamic Material checkbox toggles, and seamless dark-mode-ready aesthetics.
 
+  ## 📸 Cross-Platform Previews
+
+![Android Version](screenshots/android1.png)
+![Android Version](screenshots/android2.png)
+![Android Version](screenshots/android3.png)
+![iOS Version](screenshots/ios1.png)
+![iOS Version](screenshots/ios2.png)
+![Web Version](screenshots/web1.png)
+![Web Version](screenshots/web2.png)
+![Desktop Version](screenshots/desktop1.png)
+![Desktop Version](screenshots/desktop2.png)
+
+
 ## 🚀 How to Run Locally
 
 
@@ -48,4 +61,4 @@ Navigate to the root directory and start the Ktor server on port `8081` (to avoi
 *   **iOS:** Open iosApp/iosApp.xcodeproj in Xcode, select a Simulator or physical iPhone, and hit Play. (Note: Update BASE_URL in TaskApi.kt to your local network IP if testing on a physical device).
 
 ## 👨‍💻 Author
-## Yunus Emre Computer Engineering
+### Yunus Emre Computer Engineering
